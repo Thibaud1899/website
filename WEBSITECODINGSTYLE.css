@@ -1,0 +1,14 @@
+body {
+	background-color: aliceblue;
+}
+
+.photoOMFCN {
+	width: 300px;
+	height: 150px;
+}
+.photoposition {
+	justify-self: flex-end;
+}
+img{
+	margin: 80px;
+}
